@@ -1,16 +1,11 @@
 D-Team Values
 
 Promote continuous and incremental change
-Focus on the user
-Build networks, not silos
-Don't let perfect defeat the good
-Leverage existing open-source standards and technologies
-Create actionable and realistic goals
-Practice solution-centered communication
-Learn constantly; be flexible and adaptable
-Embrace failure as part of learning
-Promote transparent decisions and actions
-Be responsible and accountable to each other and RAC's mission
-Be positive: focus on solutions over problems
-Evaluate outcomes, not output
-Results over planning
+Focus on the user: evaluate outcomes, not output
+Build networks, not silos: be flexible and adaptable
+Don't let the perfect defeat the good
+Promote transparent decisions and actions by leveraging existing open-source standards and tools
+Practice positive, solution-centered communication
+Learn constantly by embracing failure
+Be responsible and accountable to D-Team values and RAC's mission
+Results over planning: create actionable and realistic goals
