@@ -1,11 +1,31 @@
 D-Team Values
 
-Promote continuous and incremental change
-Focus on the user: evaluate outcomes, not output
-Build networks, not silos: be flexible and adaptable
 Don't let the perfect defeat the good
-Promote transparent decisions and actions by leveraging existing open-source standards and tools
+Strive for excellence, but don't let the pursuit of perfection intimidate or immobilize you. Understand when something is good enough to try out, and use testing and feedback as a way to improve it.
+
+Promote continuous and incremental change
+Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly. 
+
+Focus on the user
+Our primary purpose is to provide services that meet the needs of our users, both researchers and RAC staff. Engage with users so you can understand, prioritize and meet their needs.
+
+Build networks, not silos
+Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools wherever possible. 
+
+Invest in yourself and the profession
+We all rely on each other! Pick up and apply skills where you can; learn to be flexible and adaptable. Plow what you've learned back into the profession through documentation, participation in online forums, presentations and publications.
+
+Promote transparent decisions and actions
+Being transparent about what we're doing helps create realistic expectations, and reduces opportunities for mistrust and misunderstanding. This is especially important in the world of technology, which can often be opaque and jargon-heavy to outsiders. Do this by using open software, tools and standards where possible; documenting decision-making and prioritization processes; and being accountable for your work.
+
 Practice positive, solution-centered communication
+Complaining about a problem won't solve it. Instead, focus conversations on defining a problem, brainstorming solutions, and evaluating outcomes. If there is a problem with a system or process you're responsible for, don't take it personally or ignore it. 
+
 Learn constantly by embracing failure
-Be responsible and accountable to D-Team values and RAC's mission
+Test things out before implementing them, but don't panic when something breaks or doesn't work the first time. Figure out how to fix it or make it work, and document what happened so you can avoid repeating the result. 
+
+Be responsible and accountable to D-Team and RAC's mission
+We're all on the same team! Understand the organization's mission and approach your work in a way that fulfills those goals and values.
+
 Results over planning: create actionable and realistic goals
+Too much time spent in planning processes yields unrealistic expectations about end results that cannot be fulfilled. It's almost always better to try something out than to talk about why it will or won't work.
