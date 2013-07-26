@@ -27,5 +27,5 @@ Test things out before implementing them, but don't panic when something breaks 
 Be responsible and accountable to D-Team and RAC's mission
 We're all on the same team! Understand the organization's mission and approach your work in a way that fulfills those goals and values.
 
-Results over planning: create actionable and realistic goals
-Too much time spent in planning processes yields unrealistic expectations about end results that cannot be fulfilled. It's almost always better to try something out than to talk about why it will or won't work.
+Plan for action: create realistic and result-oriented goals
+Too much time spent in planning processes yields unrealistic expectations about end results that cannot be fulfilled. It's almost always better to try something out than to talk about why it will or won't work. Plan, implement and evaluate iteratively.
