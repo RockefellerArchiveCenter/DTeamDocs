@@ -1,24 +1,25 @@
-D-Team Values
+﻿D-Team Values
 
 Don’t let the perfect defeat the good-
-Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Focus on a “good” solution that can be tested. Be flexible and adaptable. Make and promote continuous and incremental changes to the solution, and revise the approach to the issue accordingly. By testing and receiving feedback to improve upon, good can become perfect.
+Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Focus on creating a workable solution that can be tested and improved. 
+
+Make and promote continuous and incremental change-
+Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly.
 
 Focus on the user-
-Engage with users to understand need, prioritize solutions, and produce deliverables that provide quality and useful services for both researchers and RAC staff.
+Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff.
 
 Build networks, not silos-
 Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools wherever possible.
 
 Invest in yourself and the profession-
-Archiving is not done in a vacuum. We all rely on each other! Cultivate and apply skills where you can. Invest what you’ve learned back into the profession through documentation, participation in online forums, presentations and publications. 
+All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Cultivate and apply your skills, and invest what you’ve learned back into the profession through documentation, participation in online forums, presentations and publications. 
 
 Promote transparent decisions and actions-
-Openness in decision making helps create realistic expectations of our actions, and reduces miscommunication over results. Accountability for our transparency is achieved by using open software, tools and standards where possible; documenting decision making and prioritizing processes.
+Openness in decision-making helps create realistic expectations of our actions and reduces miscommunication over results. Transparency can be achieved by using open software, tools and standards where possible, and by documenting decision-making and prioritization processes.
 
 Practice positive, solution-centered communication-
-Create an effective safe space environment in which ideas and feedback are heard and understood. Answers are best derived from the diverse knowledge of a collaborative teamwork approach where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
+Create an environment in which ideas and feedback are heard and understood, and responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
 
 Learn constantly by embracing failure-
 Test solutions and workflows out before implementation. If a desired outcome isn’t reached find a solution to get the process back on track. Document what happened to avoid repeating the misstep. It’s okay to break a few eggs.
-  
-Be responsible and accountable to the Digital Team and Rockefeller Archive Center’s mission.
