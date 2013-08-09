@@ -13,7 +13,7 @@ Build networks, not silos.
 Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools whenever possible.
 
 Invest in yourself and the profession.
-All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Cultivate and apply your skills, and invest what you’ve learned back into the profession through documentation, participation in online forums, presentations and publications. 
+All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Develop your expertize and share it with others through documentation, forums, presentations and publications. 
 
 Promote transparent decisions and actions.
 Openness in decision-making helps create realistic expectations of our actions and reduces miscommunication over results. Transparency can be achieved by using open software, tools and standards where possible, and by documenting decision-making and prioritization processes.
