@@ -10,10 +10,10 @@ Making small, iterative changes allows us to test the outcomes of those changes,
 Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff.
 
 ##Build networks, not silos.##
-Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools whenever possible.
+Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools whenever possible. Work towards human collaboration as well; work together with others to best take advantage of skills and expertise.
 
 ##Invest in yourself and the profession.##
-All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Develop your expertize and share it with others through documentation, forums, presentations and publications. 
+All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Develop your expertize and share it with others through documentation, forums, presentations and publications. Promote broad dissemination of knowledge through any means available.
 
 ##Promote transparent decisions and actions.##
 Openness in decision-making helps create realistic expectations of our actions and reduces miscommunication over results. Transparency can be achieved by using open software, tools and standards where possible, and by documenting decision-making and prioritization processes.
@@ -23,3 +23,9 @@ Create an environment in which ideas and feedback are heard and understood, and 
 
 ##Learn constantly by embracing failure.##
 Test solutions and workflows out before implementation. If a desired outcome isn’t reached, find a solution to get the process back on track. Document what happened to avoid repeating the misstep. It’s okay to break a few eggs.
+
+##Support access to materials.##
+Provide researchers access to the highest quality description and materials as possible and enable new scholarship by making materials available as soon as possible.
+
+##Focus on service.##
+The Digital Team provides a service for many different constituencies, and you should always remember that you work for the good of others. Seek to meet the needs of users, both internally and externally, as quickly, effectively, and efficiently as possible. 
