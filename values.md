@@ -18,9 +18,6 @@ Work towards building systems that are open and interoperable, leveraging existi
 ##Invest in yourself and the profession.##
 All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Develop your expertize and share it with others through documentation, forums, presentations and publications. Promote broad dissemination of knowledge through any means available.
 
-##Promote transparent decisions and actions.##
-Openness in decision-making helps create realistic expectations of our actions and reduces miscommunication over results. Transparency can be achieved by using open software, tools and standards where possible, and by documenting decision-making and prioritization processes.
-
 ##Practice positive, solution-centered communication.##
 Create an environment in which ideas and feedback are heard and understood, and responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
 
