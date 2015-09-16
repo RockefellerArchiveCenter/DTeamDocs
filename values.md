@@ -7,7 +7,7 @@ Strive for excellence, but don’t let the pursuit of perfection intimidate or i
 Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly.
 
 ##Focus on the user.##
-Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff.
+The Digital Team provides a service for many different constituencies, and you should always remember that you work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff.
 
 ##Build networks, not silos.##
 Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools whenever possible. Work towards human collaboration as well; work together with others to best take advantage of skills and expertise.
@@ -26,6 +26,3 @@ Test solutions and workflows out before implementation. If a desired outcome isn
 
 ##Support access to materials.##
 Provide researchers access to the highest quality description and materials as possible and enable new scholarship by making materials available as soon as possible.
-
-##Focus on service.##
-The Digital Team provides a service for many different constituencies, and you should always remember that you work for the good of others. Seek to meet the needs of users, both internally and externally, as quickly, effectively, and efficiently as possible. 
