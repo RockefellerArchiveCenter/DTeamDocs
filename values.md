@@ -3,9 +3,6 @@
 ##Don’t let the perfect defeat the good.##
 Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Focus on creating a workable solution that can be tested and improved. 
 
-##Make and promote continuous and incremental change.##
-Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly.
-
 ##Focus on the user.##
 The Digital Team provides a service for many different constituencies, and you should always remember that you work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff.
 
@@ -25,7 +22,7 @@ Openness in decision-making helps create realistic expectations of our actions a
 Create an environment in which ideas and feedback are heard and understood, and responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
 
 ##Learn constantly by embracing failure.##
-Test solutions and workflows out before implementation. If a desired outcome isn’t reached, find a solution to get the process back on track. Document what happened to avoid repeating the misstep. It’s okay to break a few eggs.
+Test solutions and workflows out before implementation. Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly. Document what happened to avoid repeating the misstep. It’s okay to break a few eggs.
 
 ##Support access to materials.##
 Provide researchers access to the highest quality description and materials as possible and enable new scholarship by making materials available as soon as possible.
