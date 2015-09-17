@@ -1,13 +1,13 @@
 #D-Team Values#
 
 ##Don’t let the perfect defeat the good.##
-Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Focus on creating a workable solution that can be tested and improved. 
+Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Focus on creating a workable solution that can be tested and improved.
 
 ##Make and promote continuous and incremental change.##
 Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly.
 
 ##Focus on the user.##
-The Digital Team provides a service for many different constituencies, and you should always remember that you work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff. Provide the resources, training, and support for users to feel empowered to use and troubleshoot our systems.
+We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff. Provide the resources, training, and support necessary for users to feel empowered to use and troubleshoot our systems.
 
 ##Build networks, not silos.##
 Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools whenever possible. Work towards human collaboration as well; work together with others to best take advantage of skills and expertise.
