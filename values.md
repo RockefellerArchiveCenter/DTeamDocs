@@ -16,4 +16,4 @@ Create an environment in which ideas and feedback are heard and understood, and 
 Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Test solutions and workflows out before implementation. Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly. Document what happened to avoid repeating the misstep and use safety nets like version control and backups to reduce downtime.
 
 ##Support broad and equitable access to archival materials.##
-Provide researchers access to the highest quality description and materials as possible and enable new scholarship by making materials available as soon as possible.
+Create and maintain accurate, complete and structured archival description that all researchers can use to discover, evaluate and retrieve archival materials. Facilitate research and scholarship by eliminating barriers to access including processing delays, unnecessary access restrictions, and complex use policies. 
