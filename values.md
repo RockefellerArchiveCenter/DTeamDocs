@@ -1,6 +1,6 @@
 #D-Team Values#
 
-##Focus on the user.##
+##Engage and empower users.##
 We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff. Provide the resources, training, and support necessary for users to feel empowered to use and troubleshoot our systems.
 
 ##Build networks, not silos.##
