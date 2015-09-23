@@ -7,7 +7,7 @@ We serve multiple constituencies and always work for the good of others. Engage 
 Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools whenever possible. Work towards human collaboration as well; work together with others to best take advantage of skills and expertise.
 
 ##Invest in yourself and the profession.##
-All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Develop your expertize and share it with others through documentation, forums, presentations and publications. Promote broad dissemination of knowledge through any means available.
+All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Develop your expertise and share it with others through documentation, forums, presentations and publications. Promote broad dissemination of knowledge through any means available.
 
 ##Practice positive, solution-centered communication.##
 Create an environment in which ideas and feedback are heard and understood, and responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
