@@ -4,7 +4,7 @@
 We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for both researchers and RAC staff. Provide the resources, training, and support necessary for users to feel empowered to use and troubleshoot our systems.
 
 ##Build networks, not silos.##
-Work towards building systems that are open and interoperable, leveraging existing open-source standards and tools whenever possible. Work towards human collaboration as well; work together with others to best take advantage of skills and expertise.
+Work towards building systems that are open and interoperable, using open-source standards and tools whenever possible. Collaborate with others to better take advantage of unique skills and expertise.
 
 ##Invest in yourself and the profession.##
 All parts of the archival enterprise are connected; we all rely on each other's skills and knowledge. Develop your expertise and share it with others through documentation, forums, presentations and publications. Promote broad dissemination of knowledge through any means available.
