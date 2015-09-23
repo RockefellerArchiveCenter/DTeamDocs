@@ -15,5 +15,5 @@ Create an environment in which ideas and feedback are heard and understood, and 
 ##Learn constantly by embracing failure.##
 Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Test solutions and workflows out before implementation. Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly. Document what happened to avoid repeating the misstep and use safety nets like version control and backups to reduce downtime.
 
-##Support access to materials.##
+##Support broad and equitable access to archival materials.##
 Provide researchers access to the highest quality description and materials as possible and enable new scholarship by making materials available as soon as possible.
