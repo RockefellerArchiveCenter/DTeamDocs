@@ -18,7 +18,7 @@ Create an environment in which ideas and feedback are heard and understood, and 
 
 ## Learn constantly by taking strategic risks.
 
-Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Test solutions and workflows out before implementation and learn through small, iterative changes. Take informed risks, but use safety nets like version control and backups to reduce downtime. Embrace and learn from failure to inform future decisions.
+Embrace and learn from failure to inform future decisions. Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Test solutions and workflows out before implementation and learn through small, iterative changes. Take informed risks, but use safety nets like version control and backups to reduce downtime. 
 
 ## Invest in yourself and the profession.
 
