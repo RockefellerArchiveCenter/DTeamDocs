@@ -10,8 +10,10 @@ We serve multiple constituencies and always work for the good of others. Engage 
 
 Create and maintain accurate, complete and structured archival description that all researchers can use to discover, evaluate and retrieve archival materials. Facilitate research and scholarship by eliminating barriers to access including processing delays, unnecessary access restrictions, and complex use policies.
 
-##Respect researchers' privacy.
+## Respect researchers' privacy.
+
 Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data.
+
 
 ## Build networks, not silos.
 
@@ -21,9 +23,9 @@ Implement systems that are open and interoperable, using open-source standards a
 
 Create safe spaces in which ideas and feedback are heard and understood, and timely responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
 
-## Learn constantly by embracing failure.
+## Learn constantly by taking strategic risks.
 
-Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Test solutions and workflows out before implementation. Making small, iterative changes allows us to test the outcomes of those changes, and then revise our approach accordingly. Document what happened to avoid repeating the misstep and use safety nets like version control and backups to reduce downtime.
+Embrace and learn from failure to inform future decisions. Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Test solutions and workflows out before implementation and learn through small, iterative changes. Take informed risks, but use safety nets like version control and backups to reduce downtime.
 
 ## Invest in yourself and the profession.
 
