@@ -1,14 +1,17 @@
 # Rockefeller Archive Center Digital Program Values
 
-The values of the Rockefeller Archive Center's Digital Program inform how we work together as a team, as well as how we interact with RAC staff, researchers, donors, colleagues and other external partners. These values support and inform our strategic goals and provide a standard by which we measure our daily practice. We respect and contribute to a vibrant culture based on these values, and raise concerns clearly when these values are not being followed. These values are reviewed on an annual basis and revised as necessary. 
+The values of the Rockefeller Archive Center's Digital Program inform how we work together as a team, as well as how we interact with RAC staff, researchers, donors, colleagues and other external partners. These values support and inform our strategic goals and provide a standard by which we measure our daily practice. We respect and contribute to a vibrant culture based on these values, and raise concerns clearly when these values are not being followed. These values are reviewed on an annual basis and revised as necessary.
 
 ## Engage and empower users.
 
-We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for researchers, donors and RAC staff. Provide the resources, training, and support necessary for users to feel empowered to use and troubleshoot our systems.
+We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for researchers, donors and RAC staff. Provide the care, resources, and training necessary for users to feel empowered to use and troubleshoot our systems.
 
 ## Support broad and equitable access to archival materials.
 
 Create and maintain accurate, complete and structured archival description that all researchers can use to discover, evaluate and retrieve archival materials. Facilitate research and scholarship by eliminating barriers to access including processing delays, unnecessary access restrictions, and complex use policies.
+
+##Respect researchers' privacy.
+Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data.
 
 ## Build networks, not silos.
 
@@ -16,7 +19,7 @@ Implement systems that are open and interoperable, using open-source standards a
 
 ## Practice positive, solution-centered communication.
 
-Create an environment in which ideas and feedback are heard and understood, and timely responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
+Create safe spaces in which ideas and feedback are heard and understood, and timely responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
 
 ## Learn constantly by embracing failure.
 
