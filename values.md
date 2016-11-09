@@ -11,7 +11,7 @@ We serve multiple constituencies and always work for the good of others. Engage 
 Create and maintain accurate, complete and structured archival description that all researchers can use to discover, evaluate and retrieve archival materials. Facilitate research and scholarship by eliminating barriers to access including processing delays, unnecessary access restrictions, and complex use policies.
 
 ##Respect researchers' privacy.
-Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data while balancing the security of our collections.
+Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data.
 
 ## Build networks, not silos.
 
