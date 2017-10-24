@@ -4,9 +4,9 @@ The values of the Rockefeller Archive Center's Digital Program inform how we wor
 
 ## Engage and empower users.
 
-We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for researchers, donors and RAC staff. Provide the care, resources, and training necessary for users to feel empowered to use and troubleshoot systems.
+We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for researchers, donors and RAC staff. Provide the care, resources, and training necessary for users to feel empowered to use and troubleshoot systems. Approach work with empathy and humility: listening before solving, valuing the work of others, and recognizing that we still have much to learn.
 
-## Provide ethical Access
+## Provide ethical access
 ### Respect researchers' privacy.
 
 Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data.
@@ -24,7 +24,7 @@ Implement systems that are open and interoperable, using open-source standards a
 
 Create safe spaces in which ideas and feedback are heard and understood, and timely responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
 
-## Create a culture of Learning
+## Create a culture of learning
 ### Learn constantly by taking strategic risks.
 
 Embrace and learn from failure to inform future decisions. Strive for excellence, but don’t let the pursuit of perfection intimidate or immobilize your efforts. Test solutions and workflows out before implementation and learn through small, iterative changes. Take informed risks, but use safety nets like version control and backups to reduce downtime.
