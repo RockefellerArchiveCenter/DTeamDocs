@@ -4,7 +4,7 @@ The values of the Rockefeller Archive Center's Digital Program inform how we wor
 
 ## Engage and empower users.
 
-We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for researchers, donors and RAC staff. Provide the care, resources, and training necessary for users to feel empowered to use and troubleshoot our systems.
+We serve multiple constituencies and always work for the good of others. Engage with users to understand their needs, prioritize solutions, and produce outcomes that provide high-quality and useful services for researchers, donors and RAC staff. Provide the care, resources, and training necessary for users to feel empowered to use and troubleshoot systems.
 
 ## Respect researchers' privacy.
 
