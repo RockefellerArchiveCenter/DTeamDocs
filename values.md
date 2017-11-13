@@ -18,7 +18,7 @@ Create and maintain accurate, complete and structured archival description that 
 ## Collaborate
 ### Build networks, not silos.
 
-Implement systems that are open and interoperable, using open-source standards and tools whenever possible. Collaborate with others to better take advantage of unique skills and expertise.
+Break down silos between people, departments, and institutions by implementing systems that are open and interoperable, using open-source standards and tools whenever possible. Harness colleagues' unique skills and expertise by seeking out opportunities for collaboration.
 
 ### Practice positive, solution-centered communication.
 
