@@ -1,8 +1,8 @@
 # Rockefeller Archive Center Digital Program Values
 
-The values of the Rockefeller Archive Center's Digital Program inform how we work together as a team, as well as how we interact with our RAC colleagues, researchers, donors, and other external partners. These values support and inform our strategic goals and provide a standard by which we measure our daily work. We articulate these values in order to be _a part of_ a community of practice that engages technology from a basis of values and care, not to set us _apart from_ our colleagues, researchers, donors, or other external partners.
+The values of the Rockefeller Archive Center's Digital Program inform how we work together as a team, as well as how we interact with our RAC colleagues, researchers, donors, and other external partners. They support and shape our strategic goals and provide a standard by which we measure our daily work. They exist to make us _a part of_ a community of practice that engages technology from a basis of values and care, not to set us _apart from_ our colleagues, researchers, donors, or other external partners.
 
-We respect and contribute to a vibrant culture based on these values, and raise concerns clearly when these values are not being followed by members of the Digital Programs team. These values are reviewed on an annual basis and revised as necessary.
+We respect and contribute to a vibrant culture based on these values, and raise concerns clearly when they are not being followed by members of the Digital Programs team. We review our values on an annual basis and revise them as necessary.
 
 ## Engage and empower users.
 
