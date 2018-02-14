@@ -15,7 +15,8 @@ Support remote and on-site researchers' right to privacy and confidentiality. Ad
 
 ### Support broad and equitable access to archival materials.
 
-Create and maintain accurate, complete and structured archival description that all researchers can use to discover, evaluate and retrieve archival materials. Facilitate research and scholarship by eliminating barriers to access including processing delays, unnecessary access restrictions, and complex use policies.
+Advocate for all types of research, and support processes that enable all researchers can use to discover, evaluate and retrieve archival materials. Recognize that barriers to access including processing delays, unnecessary access restrictions, and complex use policies affect researchers unequally.
+
 
 ## Collaborate
 ### Build networks, not silos.
