@@ -22,9 +22,9 @@ Create and maintain accurate, complete and structured archival description that 
 
 Break down silos between people, departments, and institutions by implementing systems that are open and interoperable, using open-source standards and tools whenever possible. Harness colleagues' unique skills and expertise by seeking out opportunities for collaboration.
 
-### Practice positive, solution-centered communication.
+### Practice positive communication.
 
-Create safe spaces in which ideas and feedback are heard and understood, and timely responses are provided. The best solutions come from a diverse and collaborative team where conversations are focused on clearly defining a problem, brainstorming solutions, and evaluating outcomes.
+Create safe spaces in which ideas and feedback are heard and understood, and timely responses are provided. Start by listening and move towards collective action.
 
 ## Create a culture of learning
 ### Learn constantly by taking strategic risks.
