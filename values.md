@@ -24,7 +24,7 @@ Break down silos between people, departments, and institutions by implementing s
 
 ### Practice positive communication.
 
-Create safe spaces in which ideas and feedback are heard and understood, and timely responses are provided. Start by listening and move towards collective action.
+Start by listening and move towards collective action. Create safe spaces in which ideas and feedback are heard and understood, and timely responses are provided.
 
 ## Create a culture of learning
 ### Learn constantly by taking strategic risks.
