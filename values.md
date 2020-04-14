@@ -14,8 +14,7 @@ We serve multiple constituencies and always work for the good of others. Engage 
 Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data.
 
 ### Support broad and equitable access to archival materials.
-Barriers to access including processing delays, unnecessary access restrictions, and complex use policies affect researchers unequally. Advocate for an inclusive community of researchers and research methodologies by supporting and developing systems and processes that enable all researchers to discover, evaluate and retrieve archival materials.
-
+Barriers including processing delays, unnecessary access restrictions, complex use policies, and inaccessible systems and content affect researchers unequally. Advocate for an inclusive community of researchers and research methodologies by supporting and developing systems and processes that enable all researchers to discover, evaluate and retrieve archival materials.
 
 ## Collaborate
 ### Build networks, not silos.
