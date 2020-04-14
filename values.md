@@ -19,7 +19,7 @@ Barriers including processing delays, unnecessary access restrictions, complex u
 ## Collaborate
 ### Build networks, not silos.
 
-Break down silos between people, departments, and institutions by implementing systems that are open and interoperable, using open-source standards and tools whenever possible. Harness colleagues' unique skills and expertise by seeking out opportunities for collaboration.
+Break down silos between people, departments, and institutions by implementing systems that are open and interoperable, using open-source standards and tools whenever possible. Harness colleagues' unique skills and expertise by seeking out opportunities for collaboration. Recognize that information work and infrastructure maintenance are often devalued and invisible, and practice care for ourselves and our colleagues in valuing that labor.
 
 ### Practice intentional communication.
 
