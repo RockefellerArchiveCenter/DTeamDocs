@@ -1,8 +1,8 @@
-# Rockefeller Archive Center Digital Program Values
+# Rockefeller Archive Center Digital Strategies Team Values
 
-The values of the Rockefeller Archive Center's Digital Program inform how we work together as a team, as well as how we interact with our RAC colleagues, researchers, donors, and other external partners. They support and shape our strategic goals and provide a standard by which we measure our daily work. They exist to make us _a part of_ a community of practice that engages technology from a basis of values and care, not to set us _apart from_ our colleagues, researchers, donors, or other external partners.
+The values of the Rockefeller Archive Center's Digital Program inform how we work together as a team, as well as how we interact with our RAC colleagues, researchers, donors, and other external partners. They support and shape our strategic goals and provide a standard by which we measure our daily work. These values are based in an understanding of technologies as embedded in and shaped by human biases, histories of oppression, and power; in other words as expressions of values contrary to the ones expressed in this document. Consequently, our values exist to make us _a part of_ a community of practice that engages technology from a basis of values and care, not to set us _apart from_ our colleagues, researchers, donors, or other external partners.
 
-We respect and contribute to a vibrant culture based on these values, and raise concerns clearly when they are not being followed by members of the Digital Programs team. We review our values on an annual basis and revise them as necessary.
+We review our values on an annual basis and revise them as necessary.
 
 ## Engage and empower users.
 
@@ -14,12 +14,13 @@ We serve multiple constituencies and always work for the good of others. Engage 
 Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data.
 
 ### Support broad and equitable access to archival materials.
-Barriers including processing delays, unnecessary access restrictions, complex use policies, and inaccessible systems and content affect researchers unequally. Advocate for an inclusive community of researchers and research methodologies by supporting and developing systems and processes that enable all researchers to discover, evaluate and retrieve archival materials.
+Barriers to access including processing delays, unnecessary access restrictions, and complex use policies affect researchers unequally. Advocate for an inclusive community of researchers and research methodologies by supporting and developing systems and processes that enable all researchers to discover, evaluate and retrieve archival materials.
+
 
 ## Collaborate
 ### Build networks, not silos.
 
-Break down silos between people, departments, and institutions by implementing systems that are open and interoperable, using open-source standards and tools whenever possible. Harness colleagues' unique skills and expertise by seeking out opportunities for collaboration. Recognize that information work and infrastructure maintenance are often devalued and invisible, and practice care for ourselves and our colleagues in valuing that labor.
+Break down silos between people, departments, and institutions by implementing systems that are open and interoperable, using open-source standards and tools whenever possible. Harness colleagues' unique skills and expertise by seeking out opportunities for collaboration.
 
 ### Practice intentional communication.
 
