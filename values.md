@@ -11,7 +11,7 @@ We serve multiple constituencies and always work for the good of others. Engage 
 ## Provide ethical access
 ### Respect researchers' privacy.
 
-Support remote and on-site researchers' right to privacy and confidentiality. Advocate for sensible data retention policies and gathering minimal data.
+Support remote and on-site researchers' right to privacy and confidentiality with an understanding of how usability and accessibility enable self-determination. Advocate for sensible data retention policies and gathering minimal data.
 
 ### Support broad and equitable access to archival materials.
 Barriers to access including processing delays, unnecessary access restrictions, and complex use policies affect researchers unequally. Advocate for an inclusive community of researchers and research methodologies by supporting and developing systems and processes that enable all researchers to discover, evaluate and retrieve archival materials.
