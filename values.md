@@ -33,4 +33,4 @@ Embrace and learn from failure to inform future decisions. Strive for excellence
 
 ### Invest in yourself and the profession.
 
-All parts of the archival enterprise are connected; we rely on each other’s skills and knowledge. Develop your expertise and share it with others through contributions to documentation, forums, presentations, publications, and professional organizations. Seek to build community by promoting broad dissemination of knowledge and collective skill-sharing through any means available.
+All parts of the archival enterprise are connected; we rely on each other’s skills, knowledge, and advocacy. Develop your expertise and share it with others through contributions to documentation, forums, presentations, publications, and professional organizations. Seek to build community by promoting broad dissemination of knowledge and collective skill-sharing through any means available. Practice and advocate for ethical labor practices, and challenge hierarchical models that harm the community by reproducing contingency and precarity. 
