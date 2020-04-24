@@ -1,7 +1,7 @@
 # Core Activities
 
 ## Systems Strategy
-We lead strategy for the selection, development, and decommissioning of systems key to archival functions. We evaluate workflows, systems, and processes holistically, with an eye towards removing redundancy and eliminating unnecessary manual intervention so that our colleagues are better able to use their unique skills in acquiring, preserving, and providing access to archival collections.
+We lead strategy for the selection, implementations, and decommissioning of systems key to archival functions. We evaluate workflows, systems, and processes holistically, with an eye towards removing redundancy and eliminating unnecessary manual intervention so that our colleagues are better able to use their unique skills in acquiring, preserving, and providing access to archival collections. Working with open source applications as well as creating our own, we develop systems that fit the RAC's needs and use cases.
 
 ## User Experience Design
 We advocate for and improve the usability of archival systems and processes at the RAC by taking a user-centered approach to design and implementation. We strive to improve user experience by engaging users throughout all stages of the implementation and systems lifecycle. We perform user research, create and lead user experience tests, and involve stakeholders throughout the design process. We recognize that accessibility is integral to usability, and are committed to ensuring that people with disabilities have access to our systems and content.
