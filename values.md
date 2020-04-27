@@ -11,7 +11,7 @@ We engage directly with multiple user communities - including researchers, donor
 ## Provide ethical access
 ### Respect researchers' privacy.
 
-We advocate for our researchers' right to privacy and confidentiality in both on-site and remote research environments, and that advocacy includes promoting and understanding the role of usability and accessibility in enabling self-determination. When implementing systems, we seek to minimize the amount of user data gathered and stored, and provide mechanisms to facilitate sensible data retention policies.
+We advocate for our researchers' right to privacy, confidentiality and self-determination in both on-site and remote research environments. When implementing systems, we seek to minimize the amount of user data gathered and stored, and provide mechanisms to facilitate sensible data retention policies. By improving the usability and accessibility of systems, we facilitate independent, self-directed access, and improve users’ ability to make choices about their personal data.
 
 ### Support broad and equitable access to archival materials.
 
