@@ -3,7 +3,7 @@
 ## Implement, Develop and Decommission Systems
 We lead strategy for the selection, implementation, and decommissioning of systems key to archival functions. Evaluating workflows, systems, and processes holistically, we try to remove redundancy and eliminate unnecessary manual intervention so that our colleagues are better able to use their unique skills in acquiring, preserving, and providing access to archival collections. We develop systems that fit the RAC's needs and use cases, and also work with open source applications and their communities.
 
-## Design for User Experience
+## Improve User Experience
 We advocate for and improve the usability of archival systems and processes at the RAC by taking a user-centered approach to design and implementation, striving to improve user experience by engaging users throughout all stages of the systems lifecycle. We perform user research, create and lead user experience tests, and involve stakeholders throughout the design process. Because we recognize that accessibility is integral to usability, we are committed to ensuring that people with disabilities have access to our systems and content.
 
 ## Maintain Technical Infrastructure
