@@ -1,6 +1,6 @@
 # Core Activities
 
-## Implement and Develop Systems
+## Implement, Develop and Decommission Systems
 We lead strategy for the selection, implementations, and decommissioning of systems key to archival functions. We evaluate workflows, systems, and processes holistically, with an eye towards removing redundancy and eliminating unnecessary manual intervention so that our colleagues are better able to use their unique skills in acquiring, preserving, and providing access to archival collections. We develop systems that fit the RAC's needs and use cases, as well as work with open source applications and their communities.
 
 ## Design for User Experience
