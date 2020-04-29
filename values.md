@@ -9,7 +9,7 @@ We review our values on an annual basis and revise them as necessary.
 We engage directly with multiple user communities - including researchers, donors, and our colleagues at the RAC - to understand their needs, prioritize solutions, and provide high-quality and useful services and products. In every aspect of our work, we are committed to providing the care, resources, and training necessary to empower users as they interact with systems. As a result, we aspire to approach our work with empathy and humility: listening before solving, valuing the labor and expertise of others, and recognizing that we still have room to learn.
 
 ## Provide ethical access
-### Respect researchers' privacy.
+### Respect researchers' rights to privacy and self-determination.
 
 We advocate for our researchers' right to privacy, confidentiality and self-determination in both on-site and remote research environments. When implementing systems, we seek to minimize the amount of user data gathered and stored, and provide mechanisms to facilitate sensible data retention policies. By improving the usability and accessibility of systems, we facilitate independent, self-directed access, and improve users’ ability to make choices about their personal data.
 
