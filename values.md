@@ -11,11 +11,11 @@ We engage directly with multiple user communities - including researchers, donor
 ## Provide ethical access
 ### Respect researchers' rights to privacy and self-determination.
 
-We advocate for our researchers' right to privacy, confidentiality and self-determination in both on-site and remote research environments. When implementing systems, we seek to minimize the amount of user data gathered and stored, and provide mechanisms to facilitate sensible data retention policies. By improving the usability and accessibility of systems, we facilitate independent, self-directed access, and improve users’ ability to make choices about their personal data.
+We advocate for our researchers' right to privacy, confidentiality and self-determination in both on-site and remote research environments. When implementing systems, we seek to minimize the amount of user data gathered and stored, and provide mechanisms to facilitate sensible data retention policies. By improving the usability and accessibility of systems, we promote independent, self-directed access, and improve users’ ability to make choices about their personal data.
 
 ### Support broad and equitable access to archival materials.
 
-As a team, we develop and support systems and processes that enable researchers to discover, evaluate, and retrieve archival materials using a multiplicity of research methodologies. We promote a more inclusive researcher community and accessible research experience by supporting efficient archival processing, open access by default, clear and transparent use policies, and a user experience guided by the principles of universal design.
+As a team, we develop and support systems and processes that enable researchers to discover, evaluate, and retrieve archival materials using a multiplicity of research methodologies. We facilitate the development of a more inclusive user community by supporting efficient archival processing, clear and transparent access systems, policies which support broad access and use, and a user experience guided by the principles of universal design.
 
 ## Collaborate
 ### Build networks, not silos.
