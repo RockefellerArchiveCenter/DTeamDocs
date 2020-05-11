@@ -1,3 +1,3 @@
-# Rockefeller Archive Center Digital Program Mission
+# Rockefeller Archive Center Digital Strategies Mission
 
-The Digital Program facilitates broad and equitable access to and responsible preservation of materials in the RAC's custody by providing technical leadership and expertise to staff in all program areas. We further our work and the archival profession by taking a collaborative, transparent, and standards-based approach, contributing to open-source systems and communities. We engage researchers and staff to understand their needs, prioritize solutions, and produce high-quality and useful tools and services.
+The Digital Strategies team leads the ethical application of technology in all aspects of the RAC's work by connecting people to systems and expertise. We develop, implement, and maintain the organization’s archival systems and digital infrastructure; build capacity through training designed to empower our colleagues; center user perspectives to continually improve the usability and accessibility of our systems and collections; and participate in professional communities to further our work and the archival profession.
