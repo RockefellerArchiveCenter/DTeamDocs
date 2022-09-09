@@ -1,6 +1,6 @@
 # Rockefeller Archive Center Digital Strategies Team Values
 
-The values of the Rockefeller Archive Center's Digital Program inform how we work together as a team, as well as how we interact with our RAC colleagues, researchers, donors, and other external partners. They support and shape our strategic goals and provide a standard by which we measure our daily work. These values are based in an understanding of technologies as embedded in and shaped by human biases, histories of oppression, and power. Consequently, our values exist to make us _a part of_ a community of practice that engages technology from a basis of values and care, not to set us _apart from_ our colleagues, researchers, donors, or other external partners.
+The values of the Rockefeller Archive Center's (RAC) Digital Strategies team inform how we work together, as well as how we interact with our RAC colleagues, researchers, donors, and other external partners. They support and shape our strategic goals and provide a standard by which we measure our daily work. These values are based in an understanding of technologies as embedded in and shaped by human biases, histories of oppression, and power. Consequently, our values exist to make us _a part of_ a community of practice that engages technology from a basis of values and care, not to set us _apart from_ our colleagues, researchers, donors, or other external partners.
 
 We review our values on an annual basis and revise them as necessary.
 
